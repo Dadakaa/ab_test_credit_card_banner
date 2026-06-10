@@ -145,6 +145,12 @@ df["booking"] = np.where(
 | control |          4884 |           228 |         0.046683  |
 | test    |          5116 |           388 |         0.0758405 |
 
+<div align="center">
+    <img src="01_conversion_rate_comparison.png" width="800">
+    <br>
+    <em>Рис. 1 - Сравнение конверсий между группами</em>
+</div>
+
 <br>
 Находим z и p-value и строим доверительный интервал:
 
