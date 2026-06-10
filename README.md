@@ -146,6 +146,7 @@ df["booking"] = np.where(
 | test    |          5116 |           388 |         0.0758405 |
 
 <div align="center">
+    <br>
     <img src="01_conversion_rate_comparison.png" width="800">
     <br>
     <em>Рис. 1 - Сравнение конверсий между группами</em>
